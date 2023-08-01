@@ -22,14 +22,11 @@ export default function Home({ allPostsData }) {
           This is Satya Nayak. I am a Builder. Look for opportunity to make
           things better. I build applications on WEB2 as well as Web3 stack. I
           have expertise on developing product in mordern web develpment stack
-          like React, Next, Tailwind and Postgress DB. I also can devlop
-          application on web3 stack. Preferred chains as of now is Erhereum ans
-          Solidity. You can contact me on
+          like React, Next.js, Tailwind and Postgress DB.
+          <br></br>
+          <br></br>I also devlop application on web3 stack. Preferred chains as
+          of now is Ethereum and Solidity. You can contact me on
           <Link href="https://www.linkedin.com/in/nayak-satya/"> LinkedIn</Link>
-        </p>
-        <p>
-          (This is a sample website - you’ll be building a site like this on{" "}
-          <a href="https://nextjs.org/learn">our Next.js tutorial</a>.)
         </p>
       </section>
       <section className={`${utilStyles.headingMd} ${utilStyles.padding1px}`}>
