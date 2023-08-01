@@ -25,7 +25,7 @@ export default function Home({ allPostsData }) {
           like React, Next.js, Tailwind and Postgress DB.
           <br></br>
           <br></br>I also devlop application on web3 stack. Preferred chains as
-          of now is Ethereum and Solidity. You can contact me on
+          of now is Ethereum and Solidity, Rust. You can contact me on
           <Link href="https://www.linkedin.com/in/nayak-satya/"> LinkedIn</Link>
         </p>
       </section>
