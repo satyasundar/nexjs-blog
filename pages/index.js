@@ -19,10 +19,10 @@ export default function Home({ allPostsData }) {
       </Head>
       <section className={utilStyles.headingMd}>
         <p>
-          This is Satya Nayak. I am a Builder. Look for opportunity to make
-          things better. I build applications on WEB2 as well as Web3 stack. I
-          have expertise on developing product in mordern web develpment stack
-          like React, Next.js, Tailwind and Postgress DB.
+          This is Satya Nayak. I look for opportunity to make things better. I
+          build applications on WEB2 as well as Web3 stack. I have expertise on
+          developing product in mordern web develpment stack like React,
+          Next.js, Tailwind and Postgress DB.
           <br></br>
           <br></br>I also develop application on web3 stack. Preferred chains as
           of now is Ethereum and Solidity, Rust. You can contact me on
